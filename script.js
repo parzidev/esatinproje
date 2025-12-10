@@ -3,6 +3,52 @@ document.addEventListener('DOMContentLoaded', () => {
     let targetCard = null;
     let guesses = [];
     let gameOver = false;
+    let currentLang = 'tr';
+
+    const translations = {
+        tr: {
+            title: "Kart Tahmin Oyunu",
+            subtitle: "Günün kartını tahmin et!",
+            placeholder: "Kart ismi yazın...",
+            giveUp: "Pes Et",
+            headers: {
+                card: "Kart",
+                type: "Tip",
+                energy: "Enerji",
+                power: "Güç",
+                might: "Can",
+                rarity: "Nadir"
+            },
+            modal: {
+                winTitle: "Tebrikler!",
+                lossTitle: "Oyun Bitti",
+                winMsg: "Doğru kart: ",
+                lossMsg: "Aranan kart: ",
+                playAgain: "Tekrar Oyna"
+            }
+        },
+        en: {
+            title: "Card Guessing Game",
+            subtitle: "Guess the card of the day!",
+            placeholder: "Type card name...",
+            giveUp: "Give Up",
+            headers: {
+                card: "Card",
+                type: "Type",
+                energy: "Energy",
+                power: "Power",
+                might: "Might",
+                rarity: "Rarity"
+            },
+            modal: {
+                winTitle: "Congratulations!",
+                lossTitle: "Game Over",
+                winMsg: "Correct card: ",
+                lossMsg: "Target card: ",
+                playAgain: "Play Again"
+            }
+        }
+    };
 
     const searchInput = document.getElementById('searchInput');
     const autocompleteList = document.getElementById('autocomplete-list');
@@ -16,14 +62,50 @@ document.addEventListener('DOMContentLoaded', () => {
     const giveUpBtn = document.getElementById('giveUpBtn');
     const modalImage = document.getElementById('modalImage');
 
-    // Placeholder image (gray square)
+    // DOM Elements for translation
+    const gameTitle = document.getElementById('gameTitle');
+    const gameSubtitle = document.getElementById('gameSubtitle');
+    const headerCard = document.getElementById('headerCard');
+    const headerType = document.getElementById('headerType');
+    const headerEnergy = document.getElementById('headerEnergy');
+    const headerPower = document.getElementById('headerPower');
+    const headerMight = document.getElementById('headerMight');
+    const headerRarity = document.getElementById('headerRarity');
+
+    // Placeholder image
     const placeholderImg = 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzMzMyIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmIj4/PC90ZXh0Pjwvc3ZnPg==';
+
+    // Initialize Language
+    function initLanguage() {
+        const browserLang = navigator.language || navigator.userLanguage;
+        currentLang = browserLang.startsWith('tr') ? 'tr' : 'en';
+        applyTranslations(currentLang);
+    }
+
+    function applyTranslations(lang) {
+        const t = translations[lang];
+
+        gameTitle.textContent = t.title;
+        gameSubtitle.textContent = t.subtitle;
+        searchInput.placeholder = t.placeholder;
+        giveUpBtn.textContent = t.giveUp;
+
+        headerCard.textContent = t.headers.card;
+        headerType.textContent = t.headers.type;
+        headerEnergy.textContent = t.headers.energy;
+        headerPower.textContent = t.headers.power;
+        headerMight.textContent = t.headers.might;
+        headerRarity.textContent = t.headers.rarity;
+
+        playAgainBtn.textContent = t.modal.playAgain;
+    }
 
     // Load JSON data
     fetch('kartlar_tam.json')
         .then(response => response.json())
         .then(data => {
             cards = data;
+            initLanguage(); // Set language before starting game
             initGame();
         })
         .catch(error => console.error('Error loading cards:', error));
@@ -62,7 +144,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function updateBlur(guessCount) {
-        // Initial blur 8px (more recognizable). Decrease by 2px every guess.
         let blurAmount = Math.max(0, 8 - guessCount * 2);
         targetCardImage.style.filter = `blur(${blurAmount}px)`;
     }
@@ -152,11 +233,8 @@ document.addEventListener('DOMContentLoaded', () => {
             'Token Card': 'type/spell.webp'
         };
 
-        // Normalize type for mapping (handle potential variations if needed, but direct map is safer for now)
-        // If exact match not found, try to find a key that is contained in the type string
         let typeImg = typeMap[card.tip];
         if (!typeImg) {
-            // Fallback logic: check if it contains 'Unit', 'Spell', etc.
             if (card.tip.includes('Unit')) typeImg = 'type/unit.webp';
             else if (card.tip.includes('Spell')) typeImg = 'type/spell.webp';
             else if (card.tip.includes('Rune')) typeImg = 'type/rune.webp';
@@ -205,7 +283,6 @@ document.addEventListener('DOMContentLoaded', () => {
         row.appendChild(mightBox);
         row.appendChild(rarityBox);
 
-        // Prepend to show latest guess at top
         guessesContainer.prepend(row);
     }
 
@@ -213,7 +290,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const box = document.createElement('div');
         box.className = `attribute-box ${className}`;
         box.innerHTML = content;
-        // Add delay for flip animation
         box.style.animationDelay = `${delayIndex * 0.1}s`;
         return box;
     }
@@ -228,9 +304,9 @@ document.addEventListener('DOMContentLoaded', () => {
             className = 'correct';
         } else {
             if (g < t) {
-                arrow = '<span class="arrow">↑</span>'; // Need higher
+                arrow = '<span class="arrow">↑</span>';
             } else {
-                arrow = '<span class="arrow">↓</span>'; // Need lower
+                arrow = '<span class="arrow">↓</span>';
             }
         }
 
@@ -241,14 +317,16 @@ document.addEventListener('DOMContentLoaded', () => {
         gameOver = true;
         searchInput.disabled = true;
         giveUpBtn.disabled = true;
-        targetCardImage.style.filter = 'blur(0px)'; // Reveal completely
+        targetCardImage.style.filter = 'blur(0px)';
+
+        const t = translations[currentLang];
 
         if (isWin) {
-            modalTitle.textContent = 'Tebrikler!';
-            winMessage.textContent = `Doğru kart: ${targetCard.isim}`;
+            modalTitle.textContent = t.modal.winTitle;
+            winMessage.textContent = `${t.modal.winMsg}${targetCard.isim}`;
         } else {
-            modalTitle.textContent = 'Oyun Bitti';
-            winMessage.textContent = `Aranan kart: ${targetCard.isim}`;
+            modalTitle.textContent = t.modal.lossTitle;
+            winMessage.textContent = `${t.modal.lossMsg}${targetCard.isim}`;
         }
 
         if (modalImage) {

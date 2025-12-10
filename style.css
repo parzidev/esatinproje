@@ -4,11 +4,13 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     min-height: 100vh;
 }
 
 .container {
+    flex: 1;
     width: 100%;
     max-width: 800px;
     /* Slightly narrower for better focus */
@@ -358,4 +360,69 @@ input[type="text"]:focus {
     .headers {
         font-size: 0.75rem;
     }
+}
+
+/* Social Footer */
+.social-footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.disclaimer {
+    color: #666;
+    font-size: 0.7rem;
+    text-align: center;
+    max-width: 600px;
+    margin-top: 20px;
+    padding: 0 20px;
+    line-height: 1.4;
+}
+
+.social-links {
+    display: flex;
+    gap: 20px;
+}
+
+.social-links a {
+    color: #888;
+    transition: color 0.3s, transform 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-links svg {
+    width: 28px;
+    height: 28px;
+}
+
+.social-links a:hover {
+    transform: translateY(-3px);
+}
+
+.social-links a[aria-label="YouTube"]:hover {
+    color: #FF0000;
+}
+
+.social-links a[aria-label="Twitch"]:hover {
+    color: #9146FF;
+}
+
+.social-links a[aria-label="X (Twitter)"]:hover {
+    color: #FFFFFF;
+}
+
+.social-links a[aria-label="Instagram"]:hover {
+    color: #E1306C;
+}
+
+.social-links a[aria-label="Discord"]:hover {
+    color: #5865F2;
 }
