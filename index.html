@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kart Tahmin Oyunu</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Kart Tahmin Oyunu</h1>
+            <p>Günün kartını tahmin et!</p>
+        </header>
+
+        <div id="target-card-container" class="target-card-container">
+            <img id="target-card-image" src="" alt="Günün Kartı">
+        </div>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Kart ismi yazın...">
+            <div id="autocomplete-list" class="autocomplete-items"></div>
+        </div>
+
+        <div class="controls">
+            <button id="giveUpBtn" class="control-btn">Pes Et</button>
+        </div>
+
+        <div class="game-board">
+            <div class="table-container">
+                <div class="headers">
+                    <div class="header-item">Kart</div>
+                    <div class="header-item">Tip</div>
+                    <div class="header-item">Enerji</div>
+                    <div class="header-item">Güç</div>
+                    <div class="header-item">Can</div>
+                    <div class="header-item">Nadir</div>
+                </div>
+                <div id="guesses-container">
+                    <!-- Tahminler buraya gelecek -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Win -->
+    <div id="winModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modalTitle">Tebrikler!</h2>
+            <p id="winMessage"></p>
+            <img id="modalImage" src="" alt="Kart Resmi"
+                style="display: none; margin: 15px auto; max-width: 150px; border-radius: 10px;">
+            <button id="playAgainBtn">Tekrar Oyna</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

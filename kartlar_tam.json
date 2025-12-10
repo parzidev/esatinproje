@@ -1,0 +1,3232 @@
+[
+    {
+        "isim": "Blastcone Fae",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Blastcone Fae.webp",
+        "tip": "Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Ava Achiever",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Ava Achiever.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Adaptatron",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Adaptatron.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Bilgewater Bully",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Bilgewater Bully.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Albus Ferros",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Albus Ferros.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Blazing Scorcher",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Blazing Scorcher.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Brynhir Thundersong",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Brynhir Thundersong.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Brazen Buccaneer",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Brazen Buccaneer.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Carnivorous Snapvine",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Carnivorous Snapvine.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Captain Farron",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Captain Farron.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Cemetery Attendant",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Cemetery Attendant.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Commander Ledros",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Commander Ledros.webp",
+        "tip": "Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Chemtech Enforcer",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Chemtech Enforcer.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Clockwork Keeper",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Clockwork Keeper.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Cithria of Cloudfield",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Cithria of Cloudfield.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Crackshot Corsair",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Crackshot Corsair.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Cruel Patron",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Cruel Patron.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Deadbloom Predator",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Deadbloom Predator.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Daring Poro",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Daring Poro.webp",
+        "tip": "Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Dangerous Duo",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Dangerous Duo.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Dune Drake",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Dune Drake.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Eclipse Herald",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Eclipse Herald.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Faithful Manufactor",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Faithful Manufactor.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Eager Apprentice",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Eager Apprentice.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Ember Monk",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Ember Monk.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "First Mate",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\First Mate.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Harnessed Dragon",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Harnessed Dragon.webp",
+        "tip": "Unit",
+        "energy": "3",
+        "power": "3",
+        "might": "4",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Gemcraft Seer",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Gemcraft Seer.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Herald of Scales",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Herald of Scales.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Flame Chompers",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Flame Chompers.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Immortal Phoenix",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Immortal Phoenix.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Kinkou Monk",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Kinkou Monk.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Kadregrin the Infernal",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Kadregrin the Infernal.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Kraken Hunter",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Kraken Hunter.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Jeweled Colossus",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Jeweled Colossus.webp",
+        "tip": "Unit",
+        "energy": "3",
+        "power": "3",
+        "might": "4",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Lecturing Yordle",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Lecturing Yordle.webp",
+        "tip": "Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Legion Rearguard",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Legion Rearguard.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "2",
+        "might": "2",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Machine Evangel",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Machine Evangel.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Magma Wurm",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Magma Wurm.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Maddened Marauder",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Maddened Marauder.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Mageseeker Warden",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Mageseeker Warden.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Mega-Mech",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Mega-Mech.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Mountain Drake",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Mountain Drake.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Mindsplitter",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Mindsplitter.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Mystic Poro",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Mystic Poro.webp",
+        "tip": "Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Noxian Drummer",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Noxian Drummer.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Noxus Hopeful",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Noxus Hopeful.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Noxus Saboteur",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Noxus Saboteur.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Pakaa Cub",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Pakaa Cub.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Peak Guardian",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Peak Guardian.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "2",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Petty Officer",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Petty Officer.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Pit Crew",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Pit Crew.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Pit Rookie",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Pit Rookie.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Pouty Poro",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Pouty Poro.webp",
+        "tip": "Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Poro Herder",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Poro Herder.webp",
+        "tip": "Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Playful Phantom",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Playful Phantom.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Raging Firebrand",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Raging Firebrand.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Rhasa the Sunderer",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Rhasa the Sunderer.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Raging Soul",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Raging Soul.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Ravenbloom Student",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Ravenbloom Student.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Riptide Rex",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Riptide Rex.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Sai Scout",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Sai Scout.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Soaring Scout",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Soaring Scout.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Solari Chief",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Solari Chief.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Shipyard Skulker",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Shipyard Skulker.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Scrapyard Champion",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Scrapyard Champion.webp",
+        "tip": "Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Sneaky Deckhand",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Sneaky Deckhand.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Solari Shieldbearer",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Solari Shieldbearer.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Sprite Mother",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Sprite Mother.webp",
+        "tip": "Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Soulgorger",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Soulgorger.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Spectral Matron",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Spectral Matron.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Stalwart Poro",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Stalwart Poro.webp",
+        "tip": "Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Thousand-Tailed Watcher",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Thousand-Tailed Watcher.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Tasty Faefolk",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Tasty Faefolk.webp",
+        "tip": "Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Sunlit Guardian",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Sunlit Guardian.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "2",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Stealthy Pursuer",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Stealthy Pursuer.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Stormclaw Ursine",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Stormclaw Ursine.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Tideturner",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Tideturner.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Undercover Agent",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Undercover Agent.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Traveling Merchant",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Traveling Merchant.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Trifarian Gloryseeker",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Trifarian Gloryseeker.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Vanguard Attendant",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Vanguard Attendant.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "2",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Vanguard Captain",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Vanguard Captain.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "2",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Vanguard Sergeant",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Vanguard Sergeant.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "2",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Whiteflame Protector",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Whiteflame Protector.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Watchful Sentry",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Watchful Sentry.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Wielder of Water",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Wielder of Water.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Wildclaw Shaman",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Wildclaw Shaman.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Wizened Elder",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Wizened Elder.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Zaunite Bouncer",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Zaunite Bouncer.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Zephyr Sage",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Zephyr Sage.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Wraith of Echoes",
+        "klasor": "Units",
+        "dosya_yolu": "Units\\Wraith of Echoes.webp",
+        "tip": "Unit",
+        "energy": "1",
+        "power": "1",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Recruit v3",
+        "klasor": "Token_Unit",
+        "dosya_yolu": "Token_Unit\\Recruit v3.webp",
+        "tip": "Token Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Recruit v2",
+        "klasor": "Token_Unit",
+        "dosya_yolu": "Token_Unit\\Recruit v2.webp",
+        "tip": "Token Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Recruit",
+        "klasor": "Token_Unit",
+        "dosya_yolu": "Token_Unit\\Recruit.webp",
+        "tip": "Token Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Sprite",
+        "klasor": "Token_Unit",
+        "dosya_yolu": "Token_Unit\\Sprite.webp",
+        "tip": "Token Unit",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Buff",
+        "klasor": "Token_Card",
+        "dosya_yolu": "Token_Card\\Buff.webp",
+        "tip": "Token Card",
+        "energy": "0",
+        "power": "0",
+        "might": "0",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Blind Fury",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Blind Fury.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Acceptable Losses",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Acceptable Losses.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Blast of Power",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Blast of Power.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Back to Back",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Back to Back.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Block",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Block.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Cannon Barrage",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Cannon Barrage.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Catalyst of Aeons",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Catalyst of Aeons.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Charm",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Charm.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Challenge",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Challenge.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Call to Glory",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Call to Glory.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Cleave",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Cleave.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Confront",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Confront.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Consult the Past",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Consult the Past.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Convergent Mutation",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Convergent Mutation.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Cull the Weak",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Cull the Weak.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Defy",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Defy.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Divine Judgment",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Divine Judgment.webp",
+        "tip": "Spell",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Disintegrate",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Disintegrate.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "En Garde",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\En Garde.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Discipline",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Discipline.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Facebreaker",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Facebreaker.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Falling Comet",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Falling Comet.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Fight or Flight",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Fight or Flight.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Fading Memories",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Fading Memories.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Falling Star",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Falling Star.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Find Your Center",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Find Your Center.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Firestorm",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Firestorm.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Flash",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Flash.webp",
+        "tip": "Spell",
+        "energy": "0",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Gentlemen's Duel",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Gentlemen's Duel.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Flurry of Blades",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Flurry of Blades.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Get Excited!",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Get Excited!.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Hextech Ray",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Hextech Ray.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Gust",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Gust.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Hidden Blade",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Hidden Blade.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Grand Strategem",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Grand Strategem.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Imperial Decree",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Imperial Decree.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Invert Timelines",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Invert Timelines.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Incinerate",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Incinerate.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Last Stand",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Last Stand.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Meditation",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Meditation.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "King's Edict",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\King's Edict.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Mystic Reversal",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Mystic Reversal.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Mobilize",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Mobilize.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Morbid Return",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Morbid Return.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Overt Operation",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Overt Operation.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Party Favors",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Party Favors.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Possession",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Possession.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Portal Rescue",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Portal Rescue.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Promising Future",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Promising Future.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Progress Day",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Progress Day.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Primal Strength",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Primal Strength.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Rebuke",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Rebuke.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Recruit the Vanguard",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Recruit the Vanguard.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "2",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Retreat",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Retreat.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Ride the Wind",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Ride the Wind.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Reinforce",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Reinforce.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Sabotage",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Sabotage.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Salvage",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Salvage.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Rune Prison",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Rune Prison.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Shakedown",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Shakedown.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Singularity",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Singularity.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Sky Splitter",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Sky Splitter.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Smoke Screen",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Smoke Screen.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Spoils of War",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Spoils of War.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Stacked Deck",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Stacked Deck.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Sprite Call",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Sprite Call.webp",
+        "tip": "Spell",
+        "energy": "0",
+        "power": "1",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Stand United",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Stand United.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Time Warp",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Time Warp.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "The Harrowing",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\The Harrowing.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Stupefy",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Stupefy.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Thermo Beam",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Thermo Beam.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Unchecked Power",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Unchecked Power.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Unyielding Spirit",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Unyielding Spirit.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Void Seeker",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Void Seeker.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Wallop",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Wallop.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Vengeance",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Vengeance.webp",
+        "tip": "Spell",
+        "energy": "3",
+        "power": "0",
+        "might": "3",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Whirlwind",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Whirlwind.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Wind Wall",
+        "klasor": "Spell",
+        "dosya_yolu": "Spell\\Wind Wall.webp",
+        "tip": "Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Bullet Time",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Bullet Time.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Tibbers",
+        "klasor": "Signature_Unit",
+        "dosya_yolu": "Signature_Unit\\Tibbers.webp",
+        "tip": "Signature Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Decisive Strike",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Decisive Strike.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Dragon's Rage",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Dragon's Rage.webp",
+        "tip": "Signature Spell",
+        "energy": "3",
+        "power": "3",
+        "might": "4",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Fox-Fire",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Fox-Fire.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Final Spark",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Final Spark.webp",
+        "tip": "Signature Spell",
+        "energy": "0",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Guerilla Warfare",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Guerilla Warfare.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Highlander",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Highlander.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Icathian Rain",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Icathian Rain.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Showstopper",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Showstopper.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Stormbringer",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Stormbringer.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Last Breath",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Last Breath.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Noxian Guillotine",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Noxian Guillotine.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Siphon Power",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Siphon Power.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Baited Hook",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Baited Hook.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Dazzling Aurora",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Dazzling Aurora.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Zenith Blade",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Zenith Blade.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Super Mega Death Rocket!",
+        "klasor": "Signature_Spell",
+        "dosya_yolu": "Signature_Spell\\Super Mega Death Rocket!.webp",
+        "tip": "Signature Spell",
+        "energy": "1",
+        "power": "0",
+        "might": "1",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Arena Bar",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Arena Bar.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Mask of Foresight",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Mask of Foresight.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Forge of the Future",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Forge of the Future.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Energy Conduit",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Energy Conduit.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Iron Ballista",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Iron Ballista.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Garbage Grabber",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Garbage Grabber.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Mushroom Pouch",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Mushroom Pouch.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Orb of Regret",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Orb of Regret.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Mistfall",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Mistfall.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Pack of Wonders",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Pack of Wonders.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Pirate's Haven",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Pirate's Haven.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Scrapheap",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Scrapheap.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Seal of Insight",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Seal of Insight.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Ravenborn Tome",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Ravenborn Tome.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Seal of Discord",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Seal of Discord.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Seal of Focus",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Seal of Focus.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Seal of Rage",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Seal of Rage.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Spirit's Refuge",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Spirit's Refuge.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Seal of Strength",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Seal of Strength.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Seal of Unity",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Seal of Unity.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Solari Shrine",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Solari Shrine.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Sun Disc",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Sun Disc.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Symbol of the Solari",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Symbol of the Solari.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Treasure Trove",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Treasure Trove.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "The Syren",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\The Syren.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Unlicensed Armory",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Unlicensed Armory.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Vanguard Helm",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Vanguard Helm.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "2",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Zhonya's Hourglass",
+        "klasor": "Gear",
+        "dosya_yolu": "Gear\\Zhonya's Hourglass.webp",
+        "tip": "Gear",
+        "energy": "1",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Darius, Hand of Noxus",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Darius, Hand of Noxus.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Ahri, Nine-Tailed Fox",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Ahri, Nine-Tailed Fox.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Annie, Dark Child",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Annie, Dark Child.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Garen, Might of Demacia",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Garen, Might of Demacia.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Lee Sin, Blind Monk",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Lee Sin, Blind Monk.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Jinx, Loose Cannon",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Jinx, Loose Cannon.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Kai'Sa, Daughter of the Void",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Kai'Sa, Daughter of the Void.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Leona, Radiant Dawn",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Leona, Radiant Dawn.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Master Yi, Wuju Bladesman",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Master Yi, Wuju Bladesman.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Lux, Lady of Luminosity",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Lux, Lady of Luminosity.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Miss Fortune, Bounty Hunter",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Miss Fortune, Bounty Hunter.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Teemo, Swift Scout",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Teemo, Swift Scout.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Sett, The Boss",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Sett, The Boss.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Volibear, Relentless Storm",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Volibear, Relentless Storm.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Viktor, Herald of the Arcane",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Viktor, Herald of the Arcane.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Yasuo, Unforgiven",
+        "klasor": "Legend",
+        "dosya_yolu": "Legend\\Yasuo, Unforgiven.webp",
+        "tip": "Legend",
+        "energy": "3",
+        "power": "3",
+        "might": "5",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Ahri, Alluring",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Ahri, Alluring.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Ahri, Inquisitive",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Ahri, Inquisitive.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Anivia, Primal",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Anivia, Primal.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Blitzcrank, Impassive",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Blitzcrank, Impassive.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Annie, Stubborn",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Annie, Stubborn.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Annie, Fiery",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Annie, Fiery.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Caitlyn, Patrolling",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Caitlyn, Patrolling.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Darius, Executioner",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Darius, Executioner.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Draven, Showboat",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Draven, Showboat.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Dr. Mundo, Expert",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Dr. Mundo, Expert.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Darius, Trifarian",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Darius, Trifarian.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Ekko, Recurrent",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Ekko, Recurrent.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Fiora, Victorious",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Fiora, Victorious.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Garen, Rugged",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Garen, Rugged.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Jinx, Demolitionist",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Jinx, Demolitionist.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Garen, Commander",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Garen, Commander.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Heimerdinger, Inventor",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Heimerdinger, Inventor.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Jinx, Rebel",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Jinx, Rebel.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Kai'Sa, Evolutionary",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Kai'Sa, Evolutionary.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Kai'Sa, Survivor",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Kai'Sa, Survivor.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Karthus, Eternal",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Karthus, Eternal.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Karma, Channeler",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Karma, Channeler.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Kayn, Unleashed",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Kayn, Unleashed.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Kog'Maw, Caustic",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Kog'Maw, Caustic.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Lee Sin, Ascetic",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Lee Sin, Ascetic.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Leona, Determined",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Leona, Determined.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Lee Sin, Centered",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Lee Sin, Centered.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Leona, Zealot",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Leona, Zealot.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Lux, Crownguard",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Lux, Crownguard.webp",
+        "tip": "Champion Unit",
+        "energy": "1",
+        "power": "2",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Lux, Illuminated",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Lux, Illuminated.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Malzahar, Fanatic",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Malzahar, Fanatic.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Master Yi, Honed",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Master Yi, Honed.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Miss Fortune, Captain",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Miss Fortune, Captain.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Miss Fortune, Buccaneer",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Miss Fortune, Buccaneer.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Qiyana, Victorious",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Qiyana, Victorious.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Nocturne, Horrifying",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Nocturne, Horrifying.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Master Yi, Meditative",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Master Yi, Meditative.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Taric, Protector",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Taric, Protector.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Sona, Harmonious",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Sona, Harmonious.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Sett, Brawler",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Sett, Brawler.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Sett, Kingpin",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Sett, Kingpin.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Shen, Kinkou",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Shen, Kinkou.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Teemo, Scout",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Teemo, Scout.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Teemo, Strategist",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Teemo, Strategist.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Udyr, Wildman",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Udyr, Wildman.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Twisted Fate, Gambler",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Twisted Fate, Gambler.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Tryndamere, Barbarian",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Tryndamere, Barbarian.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Vayne, Hunter",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Vayne, Hunter.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Vi, Destructive",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Vi, Destructive.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Viktor, Innovator",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Viktor, Innovator.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Legendary"
+    },
+    {
+        "isim": "Viktor, Leader",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Viktor, Leader.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Volibear, Furious",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Volibear, Furious.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Volibear, Imposing",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Volibear, Imposing.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Warwick, Hunter",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Warwick, Hunter.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Yasuo, Windrider",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Yasuo, Windrider.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Yasuo, Remorseful",
+        "klasor": "Champion_Unit",
+        "dosya_yolu": "Champion_Unit\\Yasuo, Remorseful.webp",
+        "tip": "Champion Unit",
+        "energy": "2",
+        "power": "2",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Altar to Unity",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Altar to Unity.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Aspirant's Climb",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Aspirant's Climb.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Back-Alley Bar",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Back-Alley Bar.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Grove of the God-Willow",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Grove of the God-Willow.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Bandle Tree",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Bandle Tree.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Fortified Position",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Fortified Position.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Hallowed Tomb",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Hallowed Tomb.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Monastery of Hirana",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Monastery of Hirana.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Navori Fighting Pit",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Navori Fighting Pit.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Obelisk of Power",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Obelisk of Power.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Reaver's Row",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Reaver's Row.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Sigil of the Storm",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Sigil of the Storm.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Epic"
+    },
+    {
+        "isim": "Reckoner's Arena",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Reckoner's Arena.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "The Arena's Greatest",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\The Arena's Greatest.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Targon's Peak",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Targon's Peak.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Startipped Peak",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Startipped Peak.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "The Candlelit Sanctum",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\The Candlelit Sanctum.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "The Dreaming Tree",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\The Dreaming Tree.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Common"
+    },
+    {
+        "isim": "The Grand Plaza",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\The Grand Plaza.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Trifarian War Camp",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Trifarian War Camp.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Vilemaw's Lair",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Vilemaw's Lair.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Windswept Hillock",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Windswept Hillock.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Uncommon"
+    },
+    {
+        "isim": "Void Gate",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Void Gate.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Zaun Warrens",
+        "klasor": "Battlefield",
+        "dosya_yolu": "Battlefield\\Zaun Warrens.webp",
+        "tip": "Battlefield",
+        "energy": "0",
+        "power": "0",
+        "might": "3",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Body Rune",
+        "klasor": "Basic_Rune",
+        "dosya_yolu": "Basic_Rune\\Body Rune.webp",
+        "tip": "Basic Rune",
+        "energy": "0",
+        "power": "0",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Calm Rune",
+        "klasor": "Basic_Rune",
+        "dosya_yolu": "Basic_Rune\\Calm Rune.webp",
+        "tip": "Basic Rune",
+        "energy": "0",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Chaos Rune",
+        "klasor": "Basic_Rune",
+        "dosya_yolu": "Basic_Rune\\Chaos Rune.webp",
+        "tip": "Basic Rune",
+        "energy": "0",
+        "power": "0",
+        "might": "2",
+        "nadir": "Rare"
+    },
+    {
+        "isim": "Fury Rune",
+        "klasor": "Basic_Rune",
+        "dosya_yolu": "Basic_Rune\\Fury Rune.webp",
+        "tip": "Basic Rune",
+        "energy": "0",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Mind Rune",
+        "klasor": "Basic_Rune",
+        "dosya_yolu": "Basic_Rune\\Mind Rune.webp",
+        "tip": "Basic Rune",
+        "energy": "0",
+        "power": "0",
+        "might": "2",
+        "nadir": "Common"
+    },
+    {
+        "isim": "Order Rune",
+        "klasor": "Basic_Rune",
+        "dosya_yolu": "Basic_Rune\\Order Rune.webp",
+        "tip": "Basic Rune",
+        "energy": "0",
+        "power": "0",
+        "might": "2",
+        "nadir": "Uncommon"
+    }
+]
